@@ -1,87 +1,63 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/your-username/your-username/main/assets/banner.gif" alt="Welcome Banner" width="100%">
+  <img src="https://raw.githubusercontent.com/TayyabAhmed561/TayyabAhmed561/main/assets/banner.gif" alt="Welcome Banner" width="100%">
 </p>
 
-<h1 align="center">🌍 Hey, I'm Your Name!</h1>
-<h3 align="center">Full Stack Developer | AI/ML Enthusiast | Open Source Contributor</h3>
+<h1 align="center">🌍 Hey, I'm Tayyab Ahmed!</h1>
+<h3 align="center">Computer Engineering Student | AI/ML Engineer | Full-Stack Developer</h3>
 
 ---
 
 ## 👨‍💻 About Me
-I’m a passionate **Full Stack Developer** with expertise in:
-- **Next.js, React.js, Node.js, Express**
-- **Python & AI-powered applications**
-- **APIs, Cloud, and Database Systems**
+🎓 **Computer Engineering (Co-op)** student at the **University of Guelph**  
+💡 Passionate about **Machine Learning, Full-Stack Development, and Cloud Computing**  
+🚀 Experienced in building scalable AI systems, IoT solutions, and interactive web apps  
+🌱 Currently enhancing my skills in **serverless architectures** and **real-time AI applications**
 
-✨ **Student of Life:** Always learning something new  
-🌱 **Currently Exploring:** Advanced Next.js, serverless architecture, and AI agents  
-💡 I believe in solving real-world problems through tech  
-❤️ Open Source contributor and community mentor  
+---
+
+## 🛠 Technical Skills
+**Languages:** Java, Python, C, C++, JavaScript, TypeScript, HTML, CSS, FXML  
+**Frameworks & Tools:** React, Node.js, Firebase, TensorFlow, PyTorch, Pandas, NumPy, Matplotlib  
+**Cloud Platforms:** AWS (Solutions Architect Associate – in progress), Google Cloud, Azure  
+**Developer Tools:** Docker, GitHub, VS Code, PyCharm, Google Colab  
+**Specialties:** Distributed systems, RESTful APIs, cloud deployment, ML model optimization  
+
+---
+
+## 🚀 Featured Projects
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| **ESV – Endangered Species Visualized** | Interactive React + Mapbox web app visualizing endangered species across Ontario with heatmaps, 3D models & real-time data for conservation awareness. | React, Mapbox, JavaScript, REST APIs |
+| **SafeSteps – Pedestrian Safety System** | ML-powered hazard reporting & AI route recommendations reducing hazard encounters by 35%. | Python, NLP, TensorFlow |
+| **MindSync – Brainwave Interface** | Cloud-based EEG system with 95%+ emotional state classification accuracy for hands-free device control. | Python, AI/ML, EEG Sensors |
+| **Multi-Axis Gimbal** | Arduino-based 3-axis camera stabilizer reducing shake by 80%. | Arduino, MPU6050, CAD |
 
 ---
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical" alt="GitHub Streak" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=TayyabAhmed561&show_icons=true&theme=radical" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TayyabAhmed561&theme=radical" height="165"/>
+</p>
+
+---
+
+## 🐍 Snake Contribution Graph
+<p align="center">
+  <img src="https://github.com/TayyabAhmed561/TayyabAhmed561/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
 
 ---
 
 ## 🌎 Visitors
 <p align="center">
-  <img src="https://profile-counter.glitch.me/{your-username}/count.svg" alt="Visitor Count" />
-  <br>
-  <img src="https://github.com/your-username/your-username/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
-
----
-
-## 🛠 Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,python,express,html,css,tailwind,mongodb,mysql,postgres,git,github,docker,aws&theme=dark" />
-</p>
-
----
-
-## 📚 Current Learning
-- Deepening my **Python OOP** knowledge
-- Enhancing backend skills with **Express** & **API development**
-- Exploring AWS (**EC2**, **S3**, **Lambda**)
-- Learning serverless functions & microservices architecture
-- Working with **SQL** and **NoSQL** databases
-- Integrating **OpenAI APIs** for automation
-- Understanding **cloud deployment** & **SSL setup**
-
----
-
-## 📌 Featured Projects
-| Project | Description | Tech |
-|---------|-------------|------|
-| [🚀 Multi-Format AI Agents](https://github.com/your-username/project) | AI agents for document analysis (PDF, Email, JSON) with FastAPI | Python, AI |
-| [🌐 Developer Portfolio](https://github.com/your-username/portfolio) | A modern developer portfolio with animations and blogs | Next.js, Tailwind |
-
----
-
-## 🐍 Snake Contribution Chart
-<p align="center">
-  <img src="https://github.com/your-username/your-username/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
-
----
-
-## ✨ Fun Quote of the Day
-<p align="center">
-  <i>"There's no coming to consciousness without pain."</i> – Carl Jung
+  <img src="https://profile-counter.glitch.me/{TayyabAhmed561}/count.svg" alt="Visitor Count" />
 </p>
 
 ---
 
 ## 🤝 Connect With Me
 <p align="center">
-  <a href="mailto:your-email"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://twitter.com/your-twitter"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
-  <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"></a>
-</p>
+  <a href="mailto:tahmed06@uoguelph.ca"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://linkedin.com/in/tayyabmahmed/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a
