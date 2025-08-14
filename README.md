@@ -1,4 +1,5 @@
 <!--Banner-->
+
 ![Tayyab's Banner Image](https://raw.githubusercontent.com/TayyabAhmed561/TayyabAhmed561/main/assets/banner.gif)
 
 <!--Night Owl image-->
@@ -7,7 +8,8 @@
 </div>
 
 <!--Header Name-->
-# <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="30"/> ɪ'ᴍ Tayyab!
+
+# <img src="./saturn.gif" width="30"/> ɪ'ᴍ Tayyab!
 
 _Cosmic Developer & Digital Craftsman_
 <br />
@@ -33,9 +35,9 @@ _Cosmic Developer & Digital Craftsman_
 <!--Languages and Tools Section-->
 <h2 align="center">🚀 Tᴇᴄʜ sᴛᴀᴄᴋ & Lᴇᴀʀɴɪɴɢ Jᴏᴜʀɴᴇʏ 🚀</h2> 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TayyabAhmed561/TayyabAhmed561/main/assets/banner.gif">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TayyabAhmed561/TayyabAhmed561/main/assets/banner.gif">
-  <img align="left" alt="Tech Stack" src="https://raw.githubusercontent.com/TayyabAhmed561/TayyabAhmed561/main/assets/banner.gif" width="50%">
+  <source media="(prefers-color-scheme: dark)" srcset="./tech-stack.gif">
+  <source media="(prefers-color-scheme: light)" srcset="./tech-stack.gif">
+  <img align="left" alt="Tech Stack" src="./tech-stack.gif" width="50%">
 </picture>
 <br />
 
@@ -138,7 +140,7 @@ _Cosmic Developer & Digital Craftsman_
 <br/>
 
 <!--Snake Animation-->
-<img src="https://raw.githubusercontent.com/TayyabAhmed561/TayyabAhmed561/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+<img src="./snake.gif" alt="Snake animation" />
 
 <!--Footer-->
 <p align="center">
