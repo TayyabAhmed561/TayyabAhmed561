@@ -73,9 +73,12 @@ _Computer Engineer & Aspiring Machine Learning Engineer_
   <tr>
     <td align="center">
       <h3><strong>Latest Project</strong></h3>
-      <a href="https://github.com/TayyabAhmed561">
-        <img width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=TayyabAhmed561&repo=TayyabAhmed561&theme=nightowl&show_owner=true&bg_color=0,000000,1e1b4b&title_color=7c3aed&text_color=ffffff" alt="Latest Project" />
-      </a>
+      <div style="background: linear-gradient(135deg, #1e1b4b, #000000); padding: 20px; border-radius: 10px; border: 2px solid #7c3aed; max-width: 470px;">
+        <h4 style="color: #7c3aed; margin: 0 0 10px 0;">🌿 ESV - Endangered Species Visualized</h4>
+        <p style="color: #ffffff; font-size: 14px; line-height: 1.4; margin: 0;">
+          An interactive web application built with React and Mapbox to visualize endangered species data across Ontario. Features dynamic map markers, heatmaps, and species-specific details to promote biodiversity awareness through education and conservation.
+        </p>
+      </div>
     </td>
     <td align="center">
       <h3><strong>Top Contributions</strong></h3>
