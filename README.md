@@ -1,4 +1,5 @@
 <!--Banner-->
+
 ![Tayyab's Banner Image](https://raw.githubusercontent.com/TayyabAhmed561/TayyabAhmed561/main/assets/banner.gif)
 
 <!--Night Owl image-->
@@ -7,9 +8,10 @@
 </div>
 
 <!--Header Name-->
+
 # <img src="https://raw.githubusercontent.com/TayyabAhmed561/TayyabAhmed561/main/media/spinning-saturn-spinning.gif" width="30"/> ɪ'ᴍ Tayyab!
 
-*Digital Craftsman (Developer / Programmer)*
+_Digital Craftsman (Developer / Programmer)_
 <br />
 
 <!--Start Intro-->
