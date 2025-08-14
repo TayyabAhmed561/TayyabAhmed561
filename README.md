@@ -3,190 +3,146 @@
   <img src="https://raw.githubusercontent.com/TayyabAhmed561/TayyabAhmed561/main/assets/banner.gif" alt="Welcome Banner" width="100%">
 </div>
 
-<!--Header Name-->
+<!--Header-->
 <div align="center">
   <h1>
     <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="35"/>
-    Hi! ɪ'ᴍ Tayyab!
+    Hi, I'm Tayyab
     <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="35"/>
   </h1>
   
   <h2>
-    🚀 Digital Craftsman & Full-Stack Developer
+    Computer Engineering Student & Full-Stack Developer
   </h2>
   
-  <h3>
-    <kbd>Computer Engineering Student • AI/ML Enthusiast • Open Source Contributor</kbd>
-  </h3>
-</div>
-
-<!--Professional Intro-->
-<div align="center">
   <p>
-    🎓 I am a <strong>Computer Engineering</strong> student at the University of Guelph and a passionate <strong>Full Stack Developer</strong> with expertise in <strong>React</strong>, <strong>Node.js</strong>, <strong>Python</strong>, and <strong>AI/ML</strong>. I specialize in building scalable systems and cloud deployment solutions.
+    Passionate about building scalable systems and exploring the intersection of AI/ML with modern web technologies.
   </p>
 </div>
 
-<!--Professional Highlights Grid-->
+<!--Profile Views-->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=TayyabAhmed561&label=Profile%20views&color=6366f1&style=flat-square" alt="Profile Views">
+</div>
+
+---
+
+<!--About Section-->
+<h2 align="center">
+  🎯 About Me
+</h2>
+
+<div align="center">
+  <p>
+    I'm a <strong>Computer Engineering</strong> student at the University of Guelph, specializing in <strong>Full-Stack Development</strong> and <strong>AI/ML</strong>. 
+    I love creating efficient, scalable solutions and contributing to open-source projects.
+  </p>
+</div>
+
+<!--Skills Grid-->
+<h2 align="center">
+  🛠️ Skills & Technologies
+</h2>
+
 <div align="center">
   <table>
     <tr>
       <td align="center">
-        <kbd>✨ Student of Life</kbd>
+        <strong>Frontend</strong><br>
+        React • Next.js • TypeScript • Tailwind CSS
       </td>
       <td align="center">
-        <kbd>🌱 Always Learning</kbd>
-      </td>
-      <td align="center">
-        <kbd>🎓 University of Guelph</kbd>
+        <strong>Backend</strong><br>
+        Node.js • Python • Express • FastAPI
       </td>
     </tr>
     <tr>
       <td align="center">
-        <kbd>💡 AI/ML Enthusiast</kbd>
+        <strong>AI/ML</strong><br>
+        TensorFlow • PyTorch • Scikit-learn • Pandas
       </td>
       <td align="center">
-        <kbd>❤ Open Source</kbd>
-      </td>
-      <td align="center">
-        <kbd>💻 Full-Stack Dev</kbd>
+        <strong>Cloud & DevOps</strong><br>
+        AWS • Docker • Git • CI/CD
       </td>
     </tr>
   </table>
 </div>
 
-<!--Profile Count Badge-->
+<!--Learning Progress-->
+<h2 align="center">
+  📚 Current Learning Focus
+</h2>
+
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=TayyabAhmed561&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="TayyabAhmed561">
+  <table>
+    <tr>
+      <td align="center">
+        <strong>React & Next.js</strong><br>
+        <img src="https://img.shields.io/badge/Progress-85%25-6366f1?style=flat-square" alt="React Progress">
+      </td>
+      <td align="center">
+        <strong>Python AI/ML</strong><br>
+        <img src="https://img.shields.io/badge/Progress-90%25-ef4444?style=flat-square" alt="Python Progress">
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <strong>Node.js & APIs</strong><br>
+        <img src="https://img.shields.io/badge/Progress-75%25-10b981?style=flat-square" alt="Node.js Progress">
+      </td>
+      <td align="center">
+        <strong>AWS & Cloud</strong><br>
+        <img src="https://img.shields.io/badge/Progress-60%25-f59e0b?style=flat-square" alt="AWS Progress">
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
 
-<!--Tech Stack Section-->
+<!--GitHub Stats-->
 <h2 align="center">
-  🛠️ Tech Stack & Learning Journey
+  📊 GitHub Statistics
 </h2>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/TayyabAhmed561/TayyabAhmed561/main/assets/banner.gif" alt="Tech Stack" width="65%">
-</div>
-
-<!--Current Learning with Progress Bars-->
-<h3 align="left">
-  🎯 Current Learning & Goals
-</h3>
-
-<div align="left">
-  <ul>
-    <li>
-      <strong>🚀 React & Next.js</strong> - Full-stack development expertise
-      <br>
-      <img src="https://img.shields.io/badge/Progress-85%25-4ecdc4?style=for-the-badge" alt="React Progress">
-    </li>
-    
-    <li>
-      <strong>🐍 Python AI/ML</strong> - TensorFlow and ML concepts
-      <br>
-      <img src="https://img.shields.io/badge/Progress-90%25-ff6b6b?style=for-the-badge" alt="Python Progress">
-    </li>
-    
-    <li>
-      <strong>⚡ Node.js & APIs</strong> - Backend skills and API development
-      <br>
-      <img src="https://img.shields.io/badge/Progress-75%25-96ceb4?style=for-the-badge" alt="Node.js Progress">
-    </li>
-    
-    <li>
-      <strong>☁️ AWS & Cloud</strong> - EC2, S3, Lambda deployment
-      <br>
-      <img src="https://img.shields.io/badge/Progress-60%25-feca57?style=for-the-badge" alt="AWS Progress">
-    </li>
-  </ul>
-</div>
-
-<br clear="both"/>
-
-<!-- GitHub Stats -->
-<h2 align="center">
-  📊 GitHub Analytics & Achievements
-</h2>
-
-<table width="100%">
-  <tr>
-    <td width="50%" align="center">
-      <h3>🏆 GitHub Stats</h3>
-      <a href="https://github.com/TayyabAhmed561">
-        <img src="https://github-readme-stats.vercel.app/api?username=TayyabAhmed561&show_icons=true&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&hide_border=true&border_radius=12" alt="GitHub Stats">
-      </a>
-    </td>
-    <td width="50%" align="center">
-      <h3>🔥 Streak Stats</h3>
-      <a href="https://github.com/TayyabAhmed561">
-        <img src="https://streak-stats.demolab.com?user=TayyabAhmed561&theme=nightowl&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff&hide_border=true&border_radius=12" alt="Streak Stats">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <h3>🚀 Latest Project</h3>
-      <a href="https://github.com/TayyabAhmed561">
-        <img width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=TayyabAhmed561&repo=TayyabAhmed561&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&hide_border=true&border_radius=12" alt="Latest Project">
-      </a>
-    </td>
-    <td align="center">
-      <h3>⭐ Top Contributions</h3>
-      <a href="https://github.com/TayyabAhmed561">
-        <img src="https://github-contributor-stats.vercel.app/api?username=TayyabAhmed561&limit=2&theme=nightowl&show_owner=true&combine_all_yearly_contributions=false&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&hide_border=true&border_radius=12" alt="Top Repo">
-      </a>
-    </td>
-  </tr>
-</table>
-
-<!--Contribution Graph-->
-<h2 align="center">
-  📈 Contribution Activity & Growth
-</h2>
-<div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=TayyabAhmed561&bg_color=220a28&&color=ffffff&line=c56a90&point=ffeb95&area=false&hide_border=true&border_radius=12">
+  <img src="https://github-readme-stats.vercel.app/api?username=TayyabAhmed561&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=ffffff&icon_color=6366f1" alt="GitHub Stats">
+  
+  <img src="https://streak-stats.demolab.com?user=TayyabAhmed561&theme=radical&hide_border=true&background=0d1117&fire=6366f1&ring=6366f1&sideNums=ffffff&sideLabels=6366f1&dates=6366f1&currStreakNum=ffffff" alt="Streak Stats">
 </div>
 
 ---
 
 <!--Contact Section-->
 <h2 align="center">
-  🤝 Let's Connect & Collaborate
+  🤝 Let's Connect
 </h2>
 
 <div align="center">
-  
   <a href="mailto:tahmed06@uoguelph.ca" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
-
+  
   <a href="https://x.com/tma_exe" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
   </a>
-
+  
   <a href="https://www.instagram.com/tma.exe" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
-
+  
   <a href="https://www.github.com/TayyabAhmed561" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
-
+  
   <a href="https://www.linkedin.com/in/tayyabmahmed/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-
 </div>
 
 <!--Snake Animation-->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/TayyabAhmed561/TayyabAhmed561/output/github-contribution-grid-snake-dark.svg" alt="Snake animation">
+  <img src="https://raw.githubusercontent.com/TayyabAhmed561/TayyabAhmed561/output/github-contribution-grid-snake-dark.svg" alt="Contribution Graph">
 </div>
 
-<!--Footer-->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer">
-</div>
