@@ -1,154 +1,269 @@
 <!--Banner-->
-
-![Tayyab's Banner Image](https://raw.githubusercontent.com/TayyabAhmed561/TayyabAhmed561/main/assets/banner.gif)
-
-<!--Night Owl image-->
-<div>
-  <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
+<div align="center">
+  <img src="https://raw.githubusercontent.com/TayyabAhmed561/TayyabAhmed561/main/assets/banner.gif" alt="Welcome Banner" width="100%">
 </div>
 
-<!--Header Name-->
+<!--Floating Elements-->
+<div align="right">
+  <img src="https://media.giphy.com/media/LnKonfpQ5gR7w/giphy.gif" width="200" alt="Coding Cat">
+</div>
 
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ Tayyab!
+<!--Header Name with Animation-->
+<div align="center">
+  <h1>
+    <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="40"/>
+    <span style="background: linear-gradient(45deg, #ff6b6b, #4ecdc4, #45b7d1, #96ceb4, #feca57); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-size: 400% 400%; animation: gradient 3s ease infinite;">ɪ'ᴍ Tayyab!</span>
+    <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="40"/>
+  </h1>
+  
+  <h2 style="color: #c56a90; font-style: italic;">
+    🚀 <span style="text-decoration: underline;">Digital Craftsman</span> 🚀
+  </h2>
+  
+  <h3 style="color: #ffeb95;">
+    <span style="border: 2px solid #c56a90; padding: 5px 15px; border-radius: 20px;">
+      Developer • Programmer • AI/ML Engineer • Student
+    </span>
+  </h3>
+</div>
 
-_Digital Craftsman (Developer / Programmer)_
-<br />
+<!--Animated Intro-->
+<div align="center">
+  <p style="font-size: 18px; line-height: 1.6; color: #ffffff; max-width: 800px; margin: 20px auto;">
+    🎓 I am a <strong style="color: #4ecdc4;">Computer Engineering</strong> student and <strong style="color: #ff6b6b;">Full Stack Developer</strong> with strong expertise in <strong style="color: #feca57;">React</strong>, <strong style="color: #96ceb4;">Node.js</strong>, <strong style="color: #45b7d1;">Python</strong>, and <strong style="color: #c56a90;">AI/ML</strong>, along with experience in building scalable systems and cloud deployment.
+  </p>
+</div>
 
-<!--Start Intro-->
-<p align="left">I am a Computer Engineering student and Full Stack Developer with strong expertise in React, Node.js, Python, and AI/ML, along with experience in building scalable systems and cloud deployment.</p>
+<!--Personal Highlights with Icons-->
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="200">
+        <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="60" alt="Student">
+        <br><strong>✨ Student of life :)</strong>
+      </td>
+      <td align="center" width="200">
+        <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="60" alt="Learning">
+        <br><strong>🌱 Always Learning</strong>
+      </td>
+      <td align="center" width="200">
+        <img src="https://media.giphy.com/media/26ufcVAJvOJsJ8WDu/giphy.gif" width="60" alt="University">
+        <br><strong>🎓 University of Guelph</strong>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="200">
+        <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="60" alt="AI/ML">
+        <br><strong>💡 AI/ML Enthusiast</strong>
+      </td>
+      <td align="center" width="200">
+        <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="60" alt="Open Source">
+        <br><strong>❤ Open Source Contributor</strong>
+      </td>
+      <td align="center" width="200">
+        <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="60" alt="Portfolio">
+        <br><strong>💻 Check My Portfolio</strong>
+      </td>
+    </tr>
+  </table>
+</div>
 
-- ✨ Student of life :)
-- 🌱 I'm currently learning many things, I believe that everyday is a learning opportunity.
-- 🎓 Computer Engineering (Co-op) student at the University of Guelph
-- 💡 Passionate about Machine Learning, Full-Stack Development, and Cloud Computing
-- ❤ Contributing to Open Source.
-- 💻 Visit my [Portfolio](https://github.com/TayyabAhmed561) for more details about me.
-<!--End Intro-->
-
-<!--Profile Count Badge-->
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=TayyabAhmed561&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="TayyabAhmed561" style="padding-right:20px;" />
-</p>
+<!--Profile Count Badge with Animation-->
+<div align="center" style="margin: 30px 0;">
+  <img src="https://komarev.com/ghpvc/?username=TayyabAhmed561&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="TayyabAhmed561" style="padding: 10px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" />
+</div>
 
 ---
 
-<!--Languages and Tools Section-->
-<h2 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ & Lᴀᴛᴇsᴛ ʙʟᴏɢs</h2> 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TayyabAhmed561/TayyabAhmed561/main/assets/banner.gif">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TayyabAhmed561/TayyabAhmed561/main/assets/banner.gif">
-  <img align="left" alt="Tech Stack" src="https://raw.githubusercontent.com/TayyabAhmed561/TayyabAhmed561/main/assets/banner.gif" width="50%">
-</picture>
-<br />
+<!--Tech Stack Section with Better Visuals-->
+<h2 align="center">
+  <span style="background: linear-gradient(45deg, #ff6b6b, #4ecdc4); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
+    🛠️ Tᴇᴄʜ sᴛᴀᴄᴋ & Lᴇᴀʀɴɪɴɢ Jᴏᴜʀɴᴇʏ 🛠️
+  </span>
+</h2>
 
-<h3 align="left">Current Learning</h3>
-<ul align="left">
-  <li>Expanding my expertise in React and Next.js for full-stack development.</li>
-  <li>Deepening my understanding of Python AI/ML concepts and TensorFlow.</li>
-  <li>Enhancing my backend skills with Node.js and API development.</li>
-  <li>Exploring AWS services like EC2, S3, and Lambda for scalable deployment.</li>
-  <li>Learning about serverless functions and microservices architecture.</li>
-  <li>Working with SQL and NoSQL databases for efficient data handling.</li>
-  <li>Integrating AI/ML APIs for intelligent application development.</li>
-  <li>Understanding cloud deployment, domain management, and SSL setup.</li>
-</ul>
-  
-<br />
-<br />
-<br />
+<div align="center">
+  <img src="https://raw.githubusercontent.com/TayyabAhmed561/TayyabAhmed561/main/assets/banner.gif" alt="Tech Stack" width="60%" style="border-radius: 15px; box-shadow: 0 8px 32px rgba(0,0,0,0.3);">
+</div>
 
-<br />
+<!--Current Learning with Progress Bars-->
+<h3 align="left" style="color: #4ecdc4; border-left: 4px solid #4ecdc4; padding-left: 15px;">
+  🎯 Current Learning & Goals
+</h3>
+
+<div style="background: rgba(68, 10, 40, 0.3); padding: 20px; border-radius: 15px; margin: 20px 0;">
+  <ul align="left" style="list-style: none; padding: 0;">
+    <li style="margin: 15px 0; padding: 10px; background: rgba(197, 106, 144, 0.1); border-radius: 8px; border-left: 3px solid #c56a90;">
+      🚀 <strong>React & Next.js:</strong> Expanding expertise in full-stack development
+      <div style="background: rgba(255,255,255,0.1); height: 8px; border-radius: 4px; margin-top: 5px;">
+        <div style="background: linear-gradient(90deg, #4ecdc4, #45b7d1); height: 100%; border-radius: 4px; width: 85%;"></div>
+      </div>
+    </li>
+    
+    <li style="margin: 15px 0; padding: 10px; background: rgba(197, 106, 144, 0.1); border-radius: 8px; border-left: 3px solid #c56a90;">
+      🐍 <strong>Python AI/ML:</strong> Deepening understanding of TensorFlow and ML concepts
+      <div style="background: rgba(255,255,255,0.1); height: 8px; border-radius: 4px; margin-top: 5px;">
+        <div style="background: linear-gradient(90deg, #ff6b6b, #feca57); height: 100%; border-radius: 4px; width: 90%;"></div>
+      </div>
+    </li>
+    
+    <li style="margin: 15px 0; padding: 10px; background: rgba(197, 106, 144, 0.1); border-radius: 8px; border-left: 3px solid #c56a90;">
+      ⚡ <strong>Node.js & APIs:</strong> Enhancing backend skills and API development
+      <div style="background: rgba(255,255,255,0.1); height: 8px; border-radius: 4px; margin-top: 5px;">
+        <div style="background: linear-gradient(90deg, #96ceb4, #4ecdc4); height: 100%; border-radius: 4px; width: 75%;"></div>
+      </div>
+    </li>
+    
+    <li style="margin: 15px 0; padding: 10px; background: rgba(197, 106, 144, 0.1); border-radius: 8px; border-left: 3px solid #c56a90;">
+      ☁️ <strong>AWS & Cloud:</strong> Exploring EC2, S3, Lambda for scalable deployment
+      <div style="background: rgba(255,255,255,0.1); height: 8px; border-radius: 4px; margin-top: 5px;">
+        <div style="background: linear-gradient(90deg, #feca57, #ff6b6b); height: 100%; border-radius: 4px; width: 60%;"></div>
+      </div>
+    </li>
+  </ul>
+</div>
+
 <br clear="both"/>
 
-<!-- GitHub Stats -->
-<h2 align="center">📊 GitHub Stats 📊</h2>
+<!-- GitHub Stats with Better Layout -->
+<h2 align="center">
+  <span style="background: linear-gradient(45deg, #c56a90, #ffeb95); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
+    📊 GitHub Analytics & Achievements 📊
+  </span>
+</h2>
 
-<table width="100%">
+<table width="100%" style="margin: 20px 0;">
   <tr>
     <td width="50%" align="center">
-      <h3><strong>GitHub Stats</strong></h3>
-      <a href="https://github.com/TayyabAhmed561">
-        <img src="https://github-readme-stats.vercel.app/api?username=TayyabAhmed561&show_icons=true&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="GitHub Stats" />
-      </a>
+      <div style="background: rgba(68, 10, 40, 0.3); padding: 20px; border-radius: 15px; border: 1px solid rgba(197, 106, 144, 0.3);">
+        <h3 style="color: #4ecdc4; margin-bottom: 15px;">🏆 GitHub Stats</h3>
+        <a href="https://github.com/TayyabAhmed561">
+          <img src="https://github-readme-stats.vercel.app/api?username=TayyabAhmed561&show_icons=true&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&hide_border=true&border_radius=15" alt="GitHub Stats" style="border-radius: 15px;" />
+        </a>
+      </div>
     </td>
     <td width="50%" align="center">
-      <h3><strong>Streak Stats</strong></h3>
-      <a href="https://github.com/TayyabAhmed561">
-        <img src="https://streak-stats.demolab.com?user=TayyabAhmed561&theme=nightowl&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff" alt="Streak Stats" />
-      </a>
+      <div style="background: rgba(68, 10, 40, 0.3); padding: 20px; border-radius: 15px; border: 1px solid rgba(197, 106, 144, 0.3);">
+        <h3 style="color: #4ecdc4; margin-bottom: 15px;">🔥 Streak Stats</h3>
+        <a href="https://github.com/TayyabAhmed561">
+          <img src="https://streak-stats.demolab.com?user=TayyabAhmed561&theme=nightowl&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff&hide_border=true&border_radius=15" alt="Streak Stats" style="border-radius: 15px;" />
+        </a>
+      </div>
     </td>
   </tr>
   <tr>
-    <td align="center">
-      <h3><strong>Latest Project</strong></h3>
-      <a href="https://github.com/TayyabAhmed561">
-        <img width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=TayyabAhmed561&repo=TayyabAhmed561&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Latest Project" />
-      </a>
+    <td align="center" style="padding-top: 20px;">
+      <div style="background: rgba(68, 10, 40, 0.3); padding: 20px; border-radius: 15px; border: 1px solid rgba(197, 106, 144, 0.3);">
+        <h3 style="color: #4ecdc4; margin-bottom: 15px;">🚀 Latest Project</h3>
+        <a href="https://github.com/TayyabAhmed561">
+          <img width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=TayyabAhmed561&repo=TayyabAhmed561&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&hide_border=true&border_radius=15" alt="Latest Project" style="border-radius: 15px;" />
+        </a>
+      </div>
     </td>
-    <td align="center">
-      <h3><strong>Top Contributions</strong></h3>
-      <a href="https://github.com/TayyabAhmed561">
-        <img src="https://github-contributor-stats.vercel.app/api?username=TayyabAhmed561&limit=2&theme=nightowl&show_owner=true&combine_all_yearly_contributions=false&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Top Repo" />
-      </a>
+    <td align="center" style="padding-top: 20px;">
+      <div style="background: rgba(68, 10, 40, 0.3); padding: 20px; border-radius: 15px; border: 1px solid rgba(197, 106, 144, 0.3);">
+        <h3 style="color: #4ecdc4; margin-bottom: 15px;">⭐ Top Contributions</h3>
+        <a href="https://github.com/TayyabAhmed561">
+          <img src="https://github-contributor-stats.vercel.app/api?username=TayyabAhmed561&limit=2&theme=nightowl&show_owner=true&combine_all_yearly_contributions=false&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&hide_border=true&border_radius=15" alt="Top Repo" style="border-radius: 15px;" />
+        </a>
+      </div>
     </td>
   </tr>
 </table>
-<br />
 
-<!--Contribution Graph-->
-<h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
-<div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=TayyabAhmed561&bg_color=220a28&&color=ffffff&line=c56a90&point=ffeb95&area=false&hide_border=false" border-radius="15">
+<!--Contribution Graph with Better Styling-->
+<h2 align="center">
+  <span style="background: linear-gradient(45deg, #ffeb95, #c56a90); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
+    📈 Contribution Activity & Growth 📈
+  </span>
+</h2>
+<div align="center" style="background: rgba(68, 10, 40, 0.3); padding: 20px; border-radius: 15px; border: 1px solid rgba(197, 106, 144, 0.3); margin: 20px 0;">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=TayyabAhmed561&bg_color=220a28&&color=ffffff&line=c56a90&point=ffeb95&area=false&hide_border=true&border_radius=15" border-radius="15" style="border-radius: 15px;">
 </div>
 
 ---
 
-<!--Dynamic Quote card updates everyday at 12 PM-->
-<h2 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
+<!--Dynamic Quote with Better Styling-->
+<h2 align="center">
+  <span style="background: linear-gradient(45deg, #4ecdc4, #45b7d1); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
+    🌟 Daily Inspiration & Motivation 🌟
+  </span>
+</h2>
 
-<!--STARTS_HERE_QUOTE_CARD-->
-<p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Albert%20Einstein&quote=Imagination%20is%20more%20important%20than%20knowledge&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
-</p>
-<!--ENDS_HERE_QUOTE_CARD-->
+<div align="center" style="background: rgba(68, 10, 40, 0.3); padding: 20px; border-radius: 15px; border: 1px solid rgba(197, 106, 144, 0.3); margin: 20px 0;">
+  <img src="https://readme-daily-quotes.vercel.app/api?author=Albert%20Einstein&quote=Imagination%20is%20more%20important%20than%20knowledge&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90" style="border-radius: 15px;">
+</div>
 
-<!--Contact Section-->
-<h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
-<div align="center">
+<!--Contact Section with Better Visuals-->
+<h2 align="center">
+  <span style="background: linear-gradient(45deg, #96ceb4, #feca57); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
+    🤝 Let's Connect & Collaborate 🤝
+  </span>
+</h2>
+
+<div align="center" style="background: rgba(68, 10, 40, 0.3); padding: 30px; border-radius: 20px; border: 1px solid rgba(197, 106, 144, 0.3); margin: 20px 0;">
   
-<a href="mailto:tahmed06@uoguelph.ca" target="_blank">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width=150 height=50 alt="tahmed06@uoguelph.ca" style="margin-bottom: 5px;" />
-</a>
+  <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px; margin-bottom: 20px;">
+    <a href="mailto:tahmed06@uoguelph.ca" target="_blank" style="text-decoration: none;">
+      <div style="background: linear-gradient(45deg, #D14836, #EA4335); padding: 15px 25px; border-radius: 25px; color: white; font-weight: bold; box-shadow: 0 4px 15px rgba(209, 72, 54, 0.4); transition: transform 0.3s ease;">
+        📧 Gmail
+      </div>
+    </a>
 
-<a href="https://x.com/TayyabAhmed561" target="_blank">
-<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" width=150 height=50 alt="TayyabAhmed561" style="margin-bottom: 5px;" />
-</a>
+    <a href="https://x.com/TayyabAhmed561" target="_blank" style="text-decoration: none;">
+      <div style="background: linear-gradient(45deg, #1DA1F2, #0D8BD9); padding: 15px 25px; border-radius: 25px; color: white; font-weight: bold; box-shadow: 0 4px 15px rgba(29, 161, 242, 0.4); transition: transform 0.3s ease;">
+        🐦 Twitter
+      </div>
+    </a>
 
-<a href="https://www.instagram.com/tayyabahmed561" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" width=150 height=50 alt="tayyabahmed561" style="margin-bottom: 5px;" />
-</a>
+    <a href="https://www.instagram.com/tayyabahmed561" target="_blank" style="text-decoration: none;">
+      <div style="background: linear-gradient(45deg, #E4405F, #C13584); padding: 15px 25px; border-radius: 25px; color: white; font-weight: bold; box-shadow: 0 4px 15px rgba(228, 64, 95, 0.4); transition: transform 0.3s ease;">
+        📸 Instagram
+      </div>
+    </a>
+  </div>
 
-<a href="https://www.github.com/TayyabAhmed561" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" width=150 height=50 alt="TayyabAhmed561" style="margin-bottom: 5px;" />
-</a>
+  <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
+    <a href="https://www.github.com/TayyabAhmed561" target="_blank" style="text-decoration: none;">
+      <div style="background: linear-gradient(45deg, #100000, #333); padding: 15px 25px; border-radius: 25px; color: white; font-weight: bold; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.4); transition: transform 0.3s ease;">
+        🐙 GitHub
+      </div>
+    </a>
 
-<a href="https://www.linkedin.com/in/tayyabmahmed/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width=150 height=50 alt="linkedin" style="margin-bottom: 5px;" />
-</a>
-
+    <a href="https://www.linkedin.com/in/tayyabmahmed/" target="_blank" style="text-decoration: none;">
+      <div style="background: linear-gradient(45deg, #0077B5, #005885); padding: 15px 25px; border-radius: 25px; color: white; font-weight: bold; box-shadow: 0 4px 15px rgba(0, 119, 181, 0.4); transition: transform 0.3s ease;">
+        💼 LinkedIn
+      </div>
+    </a>
+  </div>
 </div>
-<br/>
 
-<!--Buy me a coffee-->
-<div align="center">
-<a href="https://buymeacoffee.com/tayyabahmed" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 200px !important;" ></a>
+<!--Buy me a coffee with Better Styling-->
+<div align="center" style="margin: 30px 0;">
+  <a href="https://buymeacoffee.com/tayyabahmed" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 50px !important; width: 220px !important; border-radius: 25px; box-shadow: 0 8px 25px rgba(255, 193, 7, 0.4);" />
+  </a>
 </div>
 
-<br clear="both">
+<!--Snake Animation with Better Container-->
+<div align="center" style="background: rgba(68, 10, 40, 0.3); padding: 20px; border-radius: 15px; border: 1px solid rgba(197, 106, 144, 0.3); margin: 20px 0;">
+  <img src="https://raw.githubusercontent.com/TayyabAhmed561/TayyabAhmed561/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" style="border-radius: 15px;">
+</div>
 
-<img src="https://raw.githubusercontent.com/TayyabAhmed561/TayyabAhmed561/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+<!--Footer with Better Styling-->
+<div align="center" style="margin-top: 40px;">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer" style="border-radius: 15px;">
+</div>
 
-<!--Footer-->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
-</p>
+<!--CSS for Animations-->
+<style>
+@keyframes gradient {
+  0% { background-position: 0% 50%; }
+  50% { background-position: 100% 50%; }
+  100% { background-position: 0% 50%; }
+}
+
+div[style*="transition: transform 0.3s ease"]:hover {
+  transform: translateY(-5px) scale(1.05);
+}
+</style>
