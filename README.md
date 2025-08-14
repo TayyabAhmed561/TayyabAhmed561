@@ -11,13 +11,12 @@
 
 # <img src="https://raw.githubusercontent.com/TayyabAhmed561/TayyabAhmed561/main/media/spinning-saturn-spinning.gif" width="30"/> Hi! ɪ'ᴍ Tayyab!
 
-_Cosmic Developer & Digital Craftsman_
+_Machine Learning Engineer & Computer Engineer_
 <br />
 
 <!--Start Intro-->
-<p align="left">I am a Computer Engineering student and Full Stack Developer with strong expertise in React, Node.js, Python, and AI/ML, along with experience in building scalable systems and cloud deployment.</p>
+<p align="left">I am a Computer Engineering student and Full Stack Developer with expertise in React, Node.js, Python, and AI/ML, along with experience in building scalable systems and cloud deployment.</p>
 
-- ✨ Student of life :)
 - 🌱 I'm currently learning many things, I believe that everyday is a learning opportunity.
 - 🎓 Computer Engineering student at University of Guelph
 - 💡 Passionate about AI/ML and Full-Stack Development
@@ -36,9 +35,9 @@ _Cosmic Developer & Digital Craftsman_
 <h2 align="center">🚀 Tᴇᴄʜ sᴛᴀᴄᴋ & Lᴇᴀʀɴɪɴɢ Jᴏᴜʀɴᴇʏ 🚀</h2>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TayyabAhmed561/TayyabAhmed561/main/media/Skills_Animation_Dark_compressed.gif">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TayyabAhmed561/TayyabAhmed561/main/media/Skills_Animation_Dark_compressed.gif">
-  <img align="left" alt="Tech Stack" src="https://raw.githubusercontent.com/TayyabAhmed561/TayyabAhmed561/main/media/Skills_Animation_Dark_compressed.gif" width="50%">
+  <source media="(prefers-color-scheme: dark)" srcset="media/Skills_Animation_Dark (2).gif">
+  <source media="(prefers-color-scheme: light)" srcset="media/Skills_Animation_White.gif">
+  <img align="left" alt="Tech Stack" src="media/Skills_Animation_Dark (2).gif" width="50%">
 </picture>
 
 <br />
