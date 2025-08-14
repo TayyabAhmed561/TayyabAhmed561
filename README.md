@@ -6,9 +6,7 @@
 <!--Header-->
 <div align="center">
   <h1>
-    <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="35"/>
     Hi, I'm Tayyab
-    <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="35"/>
   </h1>
   
   <h2>
@@ -22,26 +20,14 @@
 
 <!--Profile Views-->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=TayyabAhmed561&label=Profile%20views&color=6366f1&style=flat-square" alt="Profile Views">
+  <img src="https://komarev.com/ghpvc/?username=TayyabAhmed561&label=Profile%20views&color=8b5cf6&style=flat-square" alt="Profile Views">
 </div>
 
 ---
 
-<!--About Section-->
+<!--Skills & Learning-->
 <h2 align="center">
-  🎯 About Me
-</h2>
-
-<div align="center">
-  <p>
-    I'm a <strong>Computer Engineering</strong> student at the University of Guelph, specializing in <strong>Full-Stack Development</strong> and <strong>AI/ML</strong>. 
-    I love creating efficient, scalable solutions and contributing to open-source projects.
-  </p>
-</div>
-
-<!--Skills Grid-->
-<h2 align="center">
-  🛠️ Skills & Technologies
+  🛠️ Skills & Learning Progress
 </h2>
 
 <div align="center">
@@ -69,17 +55,16 @@
   </table>
 </div>
 
-<!--Learning Progress-->
-<h2 align="center">
-  📚 Current Learning Focus
-</h2>
+<div align="center" style="margin: 20px 0;">
+  <img src="https://raw.githubusercontent.com/TayyabAhmed561/TayyabAhmed561/main/assets/banner.gif" alt="Revolving Icons" width="60%">
+</div>
 
 <div align="center">
   <table>
     <tr>
       <td align="center">
         <strong>React & Next.js</strong><br>
-        <img src="https://img.shields.io/badge/Progress-85%25-6366f1?style=flat-square" alt="React Progress">
+        <img src="https://img.shields.io/badge/Progress-85%25-8b5cf6?style=flat-square" alt="React Progress">
       </td>
       <td align="center">
         <strong>Python AI/ML</strong><br>
@@ -107,9 +92,9 @@
 </h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TayyabAhmed561&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=ffffff&icon_color=6366f1" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=TayyabAhmed561&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=8b5cf6&text_color=ffffff&icon_color=8b5cf6" alt="GitHub Stats">
   
-  <img src="https://streak-stats.demolab.com?user=TayyabAhmed561&theme=radical&hide_border=true&background=0d1117&fire=6366f1&ring=6366f1&sideNums=ffffff&sideLabels=6366f1&dates=6366f1&currStreakNum=ffffff" alt="Streak Stats">
+  <img src="https://streak-stats.demolab.com?user=TayyabAhmed561&theme=radical&hide_border=true&background=0d1117&fire=8b5cf6&ring=8b5cf6&sideNums=ffffff&sideLabels=8b5cf6&dates=8b5cf6&currStreakNum=ffffff" alt="Streak Stats">
 </div>
 
 ---
@@ -145,4 +130,3 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/TayyabAhmed561/TayyabAhmed561/output/github-contribution-grid-snake-dark.svg" alt="Contribution Graph">
 </div>
-
