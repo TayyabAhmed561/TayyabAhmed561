@@ -1,17 +1,17 @@
 <!--Banner-->
 
-![Tayyab's Banner Image](https://raw.githubusercontent.com/TayyabAhmed561/TayyabAhmed561/main/assets/banner.gif)
+![Tayyab's Banner Image](media/whm-nasa-banner.jpg)
 
 <!--Night Owl image-->
 <div>
-  <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
+  <img align="right" width="40%" src="media/hacker-pc.gif">
 </div>
 
 <!--Header Name-->
 
 # <img src="https://raw.githubusercontent.com/TayyabAhmed561/TayyabAhmed561/main/media/spinning-saturn-spinning.gif" width="30"/> Hi! ɪ'ᴍ Tayyab!
 
-_Machine Learning Engineer & Computer Engineer_
+_Computer Engineer & Aspiring Machine Learning Engineer_
 <br />
 
 <!--Start Intro-->
@@ -34,11 +34,7 @@ _Machine Learning Engineer & Computer Engineer_
 <!--Languages and Tools Section-->
 <h2 align="center">🚀 Tᴇᴄʜ sᴛᴀᴄᴋ & Lᴇᴀʀɴɪɴɢ Jᴏᴜʀɴᴇʏ 🚀</h2>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="media/Skills_Animation_Dark (2).gif">
-  <source media="(prefers-color-scheme: light)" srcset="media/Skills_Animation_White.gif">
-  <img align="left" alt="Tech Stack" src="media/Skills_Animation_Dark (2).gif" width="50%">
-</picture>
+<img align="left" alt="Tech Stack" src="media/github-mascot-detective-cartoon-o1oszwe3v6rbh5hd.png">
 
 <br />
 
