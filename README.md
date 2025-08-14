@@ -4,11 +4,6 @@
   <img src="media/whm-nasa-banner.jpg" alt="Tayyab's Banner Image" style="border: 3px solid black; border-radius: 10px;">
 </div>
 
-<!--Night Owl image-->
-<div>
-  <img align="right" width="25%" src="media/hacker-pc.gif">
-</div>
-
 <!--Header Name-->
 
 # <img src="https://raw.githubusercontent.com/TayyabAhmed561/TayyabAhmed561/main/media/spinning-saturn-spinning.gif" width="30"/> Hi! ɪ'ᴍ Tayyab!
@@ -17,13 +12,16 @@ _Computer Engineer & Aspiring Machine Learning Engineer_
 <br />
 
 <!--Start Intro-->
-<p align="left">I am a Computer Engineering student and Full Stack Developer with expertise in React, Node.js, Python, and AI/ML, along with experience in building scalable systems and cloud deployment.</p>
+<div>
+  <img align="right" width="25%" src="media/hacker-pc.gif" style="margin-top: -20px;">
+  <p align="left">I am a Computer Engineering student and Full Stack Developer with expertise in React, Node.js, Python, and AI/ML, along with experience in building scalable systems and cloud deployment.</p>
 
 - 🌱 I'm currently learning many things, I believe that everyday is a learning opportunity.
 - 🎓 Computer Engineering student at University of Guelph
 - 💡 Passionate about AI/ML and Full-Stack Development
 - ❤ Contributing to Open Source.
 - 💻 Visit my [Portfolio](https://github.com/TayyabAhmed561) for more details about me.
+</div>
 <!--End Intro-->
 
 <!--Profile Count Badge-->
@@ -36,7 +34,7 @@ _Computer Engineer & Aspiring Machine Learning Engineer_
 <!--Languages and Tools Section-->
 <h2 align="center">🚀 Tᴇᴄʜ sᴛᴀᴄᴋ & Lᴇᴀʀɴɪɴɢ Jᴏᴜʀɴᴇʏ 🚀</h2>
 
-<img align="right" alt="Tech Stack" src="media/github-mascot-detective-cartoon-o1oszwe3v6rbh5hd.png" width="200">
+<img align="right" alt="Tech Stack" src="media/github-mascot-detective-cartoon-o1oszwe3v6rbh5hd.png" width="250" style="margin-top: -20px;">
 
 <br />
 
