@@ -1,10 +1,12 @@
 <!--Banner-->
 
-![Tayyab's Banner Image](media/whm-nasa-banner.jpg)
+<div align="center">
+  <img src="media/whm-nasa-banner.jpg" alt="Tayyab's Banner Image" style="border: 3px solid black; border-radius: 10px;">
+</div>
 
 <!--Night Owl image-->
 <div>
-  <img align="right" width="40%" src="media/hacker-pc.gif">
+  <img align="right" width="25%" src="media/hacker-pc.gif">
 </div>
 
 <!--Header Name-->
@@ -34,7 +36,7 @@ _Computer Engineer & Aspiring Machine Learning Engineer_
 <!--Languages and Tools Section-->
 <h2 align="center">🚀 Tᴇᴄʜ sᴛᴀᴄᴋ & Lᴇᴀʀɴɪɴɢ Jᴏᴜʀɴᴇʏ 🚀</h2>
 
-<img align="left" alt="Tech Stack" src="media/github-mascot-detective-cartoon-o1oszwe3v6rbh5hd.png">
+<img align="right" alt="Tech Stack" src="media/github-mascot-detective-cartoon-o1oszwe3v6rbh5hd.png" width="200">
 
 <br />
 
