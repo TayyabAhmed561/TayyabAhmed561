@@ -9,7 +9,7 @@
 
 <!--Header Name-->
 
-# <img src="./saturn.gif" width="30"/> ɪ'ᴍ Tayyab!
+# <img src="./media/spinning-saturn-spinning.gif" width="30"/> ɪ'ᴍ Tayyab!
 
 _Cosmic Developer & Digital Craftsman_
 <br />
@@ -35,9 +35,9 @@ _Cosmic Developer & Digital Craftsman_
 <!--Languages and Tools Section-->
 <h2 align="center">🚀 Tᴇᴄʜ sᴛᴀᴄᴋ & Lᴇᴀʀɴɪɴɢ Jᴏᴜʀɴᴇʏ 🚀</h2> 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./tech-stack.gif">
-  <source media="(prefers-color-scheme: light)" srcset="./tech-stack.gif">
-  <img align="left" alt="Tech Stack" src="./tech-stack.gif" width="50%">
+  <source media="(prefers-color-scheme: dark)" srcset="./media/Skills_Animation_Dark.gif">
+  <source media="(prefers-color-scheme: light)" srcset="./media/Skills_Animation_Dark.gif">
+  <img align="left" alt="Tech Stack" src="./media/Skills_Animation_Dark.gif" width="50%">
 </picture>
 <br />
 
@@ -140,7 +140,7 @@ _Cosmic Developer & Digital Craftsman_
 <br/>
 
 <!--Snake Animation-->
-<img src="./snake.gif" alt="Snake animation" />
+<img src="./media/snakeGithubGif.svg" alt="Snake animation" />
 
 <!--Footer-->
 <p align="center">
