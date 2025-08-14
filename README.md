@@ -9,7 +9,7 @@
 
 <!--Header Name-->
 
-# <img src="./media/spinning-saturn-spinning.gif" width="30"/> ɪ'ᴍ Tayyab!
+# <img src="https://raw.githubusercontent.com/TayyabAhmed561/TayyabAhmed561/main/media/spinning-saturn-spinning.gif" width="30"/> ɪ'ᴍ Tayyab!
 
 _Cosmic Developer & Digital Craftsman_
 <br />
@@ -35,9 +35,9 @@ _Cosmic Developer & Digital Craftsman_
 <!--Languages and Tools Section-->
 <h2 align="center">🚀 Tᴇᴄʜ sᴛᴀᴄᴋ & Lᴇᴀʀɴɪɴɢ Jᴏᴜʀɴᴇʏ 🚀</h2> 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./media/Skills_Animation_Dark.gif">
-  <source media="(prefers-color-scheme: light)" srcset="./media/Skills_Animation_Dark.gif">
-  <img align="left" alt="Tech Stack" src="./media/Skills_Animation_Dark.gif" width="50%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TayyabAhmed561/TayyabAhmed561/main/media/Skills_Animation_Dark.gif">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TayyabAhmed561/TayyabAhmed561/main/media/Skills_Animation_Dark.gif">
+  <img align="left" alt="Tech Stack" src="https://raw.githubusercontent.com/TayyabAhmed561/TayyabAhmed561/main/media/Skills_Animation_Dark.gif" width="50%">
 </picture>
 <br />
 
@@ -121,7 +121,7 @@ _Cosmic Developer & Digital Craftsman_
 </a>
 
 <a href="https://x.com/tma_exe" target="_blank">
-<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" width=150 height=50 alt="TayyabAhmed561" style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" width=150 height=50 alt="TayyabAhmed561" alt="TayyabAhmed561" style="margin-bottom: 5px;" />
 </a>
 
 <a href="https://www.instagram.com/tma.exe" target="_blank">
@@ -140,7 +140,7 @@ _Cosmic Developer & Digital Craftsman_
 <br/>
 
 <!--Snake Animation-->
-<img src="./media/snakeGithubGif.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/TayyabAhmed561/TayyabAhmed561/main/media/snakeGithubGif.svg" alt="Snake animation" />
 
 <!--Footer-->
 <p align="center">
