@@ -9,7 +9,7 @@
 
 <!--Header Name-->
 
-# <img src="https://raw.githubusercontent.com/TayyabAhmed561/TayyabAhmed561/main/media/spinning-saturn-spinning.gif" width="30"/> ɪ'ᴍ Tayyab!
+# <img src="https://raw.githubusercontent.com/TayyabAhmed561/TayyabAhmed561/main/media/spinning-saturn-spinning.gif" width="30"/> Hi! ɪ'ᴍ Tayyab!
 
 _Cosmic Developer & Digital Craftsman_
 <br />
@@ -33,7 +33,7 @@ _Cosmic Developer & Digital Craftsman_
 ---
 
 <!--Languages and Tools Section-->
-<h2 align="center">🚀 Tᴇᴄʜ sᴛᴀᴄᴋ & Lᴇᴀʀɴɪɴɢ Jᴏᴜʀɴᴇʏ 🚀</h2> 
+<h2 align="center">🚀 Tᴇᴄʜ sᴛᴀᴄᴋ & Lᴇᴀʀɴɪɴɢ Jᴏᴜʀɴᴇʏ 🚀</h2>
 
 <div align="center">
   <table>
@@ -124,37 +124,28 @@ _Cosmic Developer & Digital Craftsman_
 
 ---
 
-<!--Dynamic Quote card updates everyday at 12 PM-->
-<h2 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
-
-<!--STARTS_HERE_QUOTE_CARD-->
-<p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Carl%20Sagan&quote=Somewhere%2C%20something%20incredible%20is%20waiting%20to%20be%20known&theme=dark&bg_color=1e1b4b&author_color=7c3aed&accent_color=7c3aed">
-</p>
-<!--ENDS_HERE_QUOTE_CARD-->
-
 <!--Contact Section-->
 <h2 align="center">🛸 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🛸 </h2>
 <div align="center">
   
 <a href="mailto:tahmed06@uoguelph.ca" target="_blank">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width=150 height=50 alt="tahmed06@uoguelph.ca" style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width=120 height=40 alt="tahmed06@uoguelph.ca" style="margin-bottom: 5px;" />
 </a>
 
 <a href="https://x.com/tma_exe" target="_blank">
-<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" width=150 height=50 alt="TayyabAhmed561" style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" width=120 height=40 alt="TayyabAhmed561" style="margin-bottom: 5px;" />
 </a>
 
 <a href="https://www.instagram.com/tma.exe" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" width=150 height=50 alt="tma.exe" style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" width=120 height=40 alt="tma.exe" style="margin-bottom: 5px;" />
 </a>
 
 <a href="https://www.github.com/TayyabAhmed561" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" width=150 height=50 alt="TayyabAhmed561" style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" width=120 height=40 alt="TayyabAhmed561" style="margin-bottom: 5px;" />
 </a>
 
 <a href="https://www.linkedin.com/in/tayyabmahmed/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width=150 height=50 alt="linkedin" style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width=120 height=40 alt="linkedin" style="margin-bottom: 5px;" />
 </a>
 
 </div>
@@ -165,5 +156,5 @@ _Cosmic Developer & Digital Craftsman_
 
 <!--Footer-->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer&gradient=8b5cf6,ec4899"/>
 </p>
