@@ -34,25 +34,20 @@ _Computer Engineer & Aspiring Machine Learning Engineer_
 <!--Languages and Tools Section-->
 <h2 align="center">🚀 Tᴇᴄʜ sᴛᴀᴄᴋ & Lᴇᴀʀɴɪɴɢ Jᴏᴜʀɴᴇʏ 🚀</h2>
 
-<img align="right" alt="Tech Stack" src="media/github-mascot-detective-cartoon-o1oszwe3v6rbh5hd.png" width="250" style="margin-top: -20px;">
-
-<br />
-
-<h3 align="left">Current Learning</h3>
-<ul align="left">
-  <li>Expanding my expertise in React and Next.js for full-stack development.</li>
-  <li>Deepening my understanding of Python AI/ML concepts and TensorFlow.</li>
-  <li>Enhancing my backend skills with Node.js and API development.</li>
-  <li>Exploring AWS services like EC2, S3, and Lambda for scalable deployment.</li>
-  <li>Learning about serverless functions and microservices architecture.</li>
-  <li>Working with SQL and NoSQL databases for efficient data handling.</li>
-  <li>Integrating AI/ML APIs for intelligent application development.</li>
-  <li>Understanding cloud deployment, domain management, and SSL setup.</li>
-</ul>
-  
-<br />
-<br />
-<br />
+<div>
+  <img align="right" alt="Tech Stack" src="media/github-mascot-detective-cartoon-o1oszwe3v6rbh5hd.png" width="250" style="margin-top: -20px;">
+  <h3 align="left">Current Learning</h3>
+  <ul align="left">
+    <li>Expanding my expertise in React and Next.js for full-stack development.</li>
+    <li>Deepening my understanding of Python AI/ML concepts and TensorFlow.</li>
+    <li>Enhancing my backend skills with Node.js and API development.</li>
+    <li>Exploring AWS services like EC2, S3, and Lambda for scalable deployment.</li>
+    <li>Learning about serverless functions and microservices architecture.</li>
+    <li>Working with SQL and NoSQL databases for efficient data handling.</li>
+    <li>Integrating AI/ML APIs for intelligent application development.</li>
+    <li>Understanding cloud deployment, domain management, and SSL setup.</li>
+  </ul>
+</div>
 
 <br />
 <br clear="both"/>
