@@ -7,7 +7,7 @@
 <div align="center">
   <h1>
     <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="35"/>
-    ɪ'ᴍ Tayyab!
+    Hi! ɪ'ᴍ Tayyab!
     <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="35"/>
   </h1>
   
@@ -81,25 +81,25 @@
     <li>
       <strong>🚀 React & Next.js</strong> - Full-stack development expertise
       <br>
-      <img src="https://progress-bar.dev/85?title=Progress&width=300&color=4ecdc4" alt="React Progress">
+      <img src="https://img.shields.io/badge/Progress-85%25-4ecdc4?style=for-the-badge" alt="React Progress">
     </li>
     
     <li>
       <strong>🐍 Python AI/ML</strong> - TensorFlow and ML concepts
       <br>
-      <img src="https://progress-bar.dev/90?title=Progress&width=300&color=ff6b6b" alt="Python Progress">
+      <img src="https://img.shields.io/badge/Progress-90%25-ff6b6b?style=for-the-badge" alt="Python Progress">
     </li>
     
     <li>
       <strong>⚡ Node.js & APIs</strong> - Backend skills and API development
       <br>
-      <img src="https://progress-bar.dev/75?title=Progress&width=300&color=96ceb4" alt="Node.js Progress">
+      <img src="https://img.shields.io/badge/Progress-75%25-96ceb4?style=for-the-badge" alt="Node.js Progress">
     </li>
     
     <li>
       <strong>☁️ AWS & Cloud</strong> - EC2, S3, Lambda deployment
       <br>
-      <img src="https://progress-bar.dev/60?title=Progress&width=300&color=feca57" alt="AWS Progress">
+      <img src="https://img.shields.io/badge/Progress-60%25-feca57?style=for-the-badge" alt="AWS Progress">
     </li>
   </ul>
 </div>
@@ -163,11 +163,11 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
 
-  <a href="https://x.com/TayyabAhmed561" target="_blank">
+  <a href="https://x.com/tma_exe" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
   </a>
 
-  <a href="https://www.instagram.com/tayyabahmed561" target="_blank">
+  <a href="https://www.instagram.com/tma.exe" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
 
