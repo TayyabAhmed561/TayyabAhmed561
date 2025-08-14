@@ -34,11 +34,32 @@ _Cosmic Developer & Digital Craftsman_
 
 <!--Languages and Tools Section-->
 <h2 align="center">🚀 Tᴇᴄʜ sᴛᴀᴄᴋ & Lᴇᴀʀɴɪɴɢ Jᴏᴜʀɴᴇʏ 🚀</h2> 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TayyabAhmed561/TayyabAhmed561/main/media/Skills_Animation_Dark.gif">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TayyabAhmed561/TayyabAhmed561/main/media/Skills_Animation_Dark.gif">
-  <img align="left" alt="Tech Stack" src="https://raw.githubusercontent.com/TayyabAhmed561/TayyabAhmed561/main/media/Skills_Animation_Dark.gif" width="50%">
-</picture>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <strong>Frontend</strong><br>
+        React • Next.js • TypeScript • Tailwind CSS
+      </td>
+      <td align="center">
+        <strong>Backend</strong><br>
+        Node.js • Python • Express • FastAPI
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <strong>AI/ML</strong><br>
+        TensorFlow • PyTorch • Scikit-learn • Pandas
+      </td>
+      <td align="center">
+        <strong>Cloud & DevOps</strong><br>
+        AWS • Docker • Git • CI/CD
+      </td>
+    </tr>
+  </table>
+</div>
+
 <br />
 
 <h3 align="left">Current Learning</h3>
@@ -121,7 +142,7 @@ _Cosmic Developer & Digital Craftsman_
 </a>
 
 <a href="https://x.com/tma_exe" target="_blank">
-<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" width=150 height=50 alt="TayyabAhmed561" alt="TayyabAhmed561" style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" width=150 height=50 alt="TayyabAhmed561" style="margin-bottom: 5px;" />
 </a>
 
 <a href="https://www.instagram.com/tma.exe" target="_blank">
