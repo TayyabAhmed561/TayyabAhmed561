@@ -73,8 +73,8 @@ _Computer Engineer & Aspiring Machine Learning Engineer_
   <tr>
     <td align="center">
       <h3><strong>Latest Project</strong></h3>
-      <a href="https://github.com/TayyabAhmed561">
-        <img width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=TayyabAhmed561&repo=TayyabAhmed561&theme=nightowl&show_owner=true&bg_color=0,000000,1e1b4b&title_color=7c3aed&text_color=ffffff" alt="Latest Project" />
+      <a href="https://github.com/TayyabAhmed561/ESV">
+        <img width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=TayyabAhmed561&repo=ESV&theme=nightowl&show_owner=true&bg_color=0,000000,1e1b4b&title_color=7c3aed&text_color=ffffff" alt="ESV - Endangered Species Visualized" />
       </a>
     </td>
     <td align="center">
