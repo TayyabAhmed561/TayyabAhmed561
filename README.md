@@ -87,12 +87,6 @@ _Computer Engineer & Aspiring Machine Learning Engineer_
 </table>
 <br />
 
-<!--Contribution Graph-->
-<h2 align="center">🌠 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 🌠</h2>
-<div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=TayyabAhmed561&bg_color=1e1b4b&&color=ffffff&line=7c3aed&point=7c3aed&area=false&hide_border=false" border-radius="15">
-</div>
-
 ---
 
 <!--Contact Section-->
