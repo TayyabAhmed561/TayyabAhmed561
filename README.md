@@ -20,7 +20,6 @@ _Computer Engineer & Aspiring Machine Learning Engineer_
 - 🎓 Computer Engineering student at University of Guelph
 - 💡 Passionate about AI/ML and Full-Stack Development
 - ❤ Contributing to Open Source.
-- 💻 Visit my [Portfolio](https://github.com/TayyabAhmed561) for more details about me.
 </div>
 <!--End Intro-->
 
