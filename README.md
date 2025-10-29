@@ -51,42 +51,6 @@ _Computer Engineer & Aspiring Machine Learning Engineer_
 <br />
 <br clear="both"/>
 
-<!-- GitHub Stats -->
-<h2 align="center">🌌 GitHub Stats 🌌</h2>
-
-<table width="100%">
-  <tr>
-    <td width="50%" align="center">
-      <h3><strong>GitHub Stats</strong></h3>
-      <a href="https://github.com/TayyabAhmed561">
-        <img src="https://github-readme-stats.vercel.app/api?username=TayyabAhmed561&show_icons=true&theme=nightowl&bg_color=0,000000,1e1b4b&title_color=7c3aed&text_color=ffffff" alt="GitHub Stats" />
-      </a>
-    </td>
-    <td width="50%" align="center">
-      <h3><strong>Streak Stats</strong></h3>
-      <a href="https://github.com/TayyabAhmed561">
-        <img src="https://streak-stats.demolab.com?user=TayyabAhmed561&theme=nightowl&background=0,000000,1e1b4b&fire=7c3aed&ring=7c3aed&sideNums=ffffff&sideLabels=ffffff&dates=7c3aed&currStreakNum=ffffff" alt="Streak Stats" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <h3><strong>Latest Project</strong></h3>
-      <a href="https://github.com/TayyabAhmed561/ESV">
-        <img width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=TayyabAhmed561&repo=ESV&theme=nightowl&show_owner=true&bg_color=0,000000,1e1b4b&title_color=7c3aed&text_color=ffffff" alt="ESV - Endangered Species Visualized" />
-      </a>
-    </td>
-    <td align="center">
-      <h3><strong>Top Contributions</strong></h3>
-      <a href="https://github.com/TayyabAhmed561">
-        <img src="https://github-contributor-stats.vercel.app/api?username=TayyabAhmed561&limit=2&theme=nightowl&show_owner=true&combine_all_yearly_contributions=false&bg_color=0,000000,1e1b4b&title_color=7c3aed&text_color=ffffff" alt="Top Repo" />
-      </a>
-    </td>
-  </tr>
-</table>
-<br />
-
----
 
 <!--Contact Section-->
 <h2 align="center">🛸 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🛸 </h2>
