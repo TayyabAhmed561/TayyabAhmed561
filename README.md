@@ -8,7 +8,7 @@
 
 # <img src="https://raw.githubusercontent.com/TayyabAhmed561/TayyabAhmed561/main/media/spinning-saturn-spinning.gif" width="30"/> Hi! ɪ'ᴍ Tayyab!
 
-_Computer Engineer & Aspiring Machine Learning Engineer_
+_Computer Engineer_
 <br />
 
 <!--Start Intro-->
@@ -17,9 +17,8 @@ _Computer Engineer & Aspiring Machine Learning Engineer_
   <p align="left">I am a Computer Engineering student and Full Stack Developer with expertise in React, Node.js, Python, and AI/ML, along with experience in building scalable systems and cloud deployment.</p>
 
 - 🌱 I'm currently learning many things, I believe that everyday is a learning opportunity.
-- 🎓 Computer Engineering student at University of Guelph
-- 💡 Passionate about AI/ML and Full-Stack Development
-- ❤ Contributing to Open Source.
+- 🎓 Computer Engineering student at University of Guelph.
+- 💡 Passionate about AI/ML and Full-Stack Development.
 </div>
 <!--End Intro-->
 
@@ -42,7 +41,6 @@ _Computer Engineer & Aspiring Machine Learning Engineer_
     <li>Enhancing my backend skills with Node.js and API development.</li>
     <li>Exploring AWS services like EC2, S3, and Lambda for scalable deployment.</li>
     <li>Learning about serverless functions and microservices architecture.</li>
-    <li>Working with SQL and NoSQL databases for efficient data handling.</li>
     <li>Integrating AI/ML APIs for intelligent application development.</li>
     <li>Understanding cloud deployment, domain management, and SSL setup.</li>
   </ul>
