@@ -19,6 +19,7 @@ _Computer Engineer_
 - 🌱 I'm currently learning many things, I believe that everyday is a learning opportunity.
 - 🎓 Computer Engineering student at University of Guelph.
 - 💡 Passionate about AI/ML and Full-Stack Development.
+
 </div>
 <!--End Intro-->
 
