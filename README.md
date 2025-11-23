@@ -20,6 +20,8 @@ _Computer Engineer_
 - 🎓 Computer Engineering student at University of Guelph.
 - 💡 Passionate about AI/ML and Full-Stack Development.
 
+
+
 </div>
 <!--End Intro-->
 
