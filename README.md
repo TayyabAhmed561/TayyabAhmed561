@@ -14,9 +14,9 @@ _Computer Engineer_
 <!--Start Intro-->
 <div>
   <img align="right" width="20%" src="media/hacker-pc.gif" style="margin-top: -10px;">
-  <p align="left">I am a Computer Engineering student and Full Stack Developer with expertise in React, Node.js, Python, and AI/ML, along with experience in building scalable systems and cloud deployment.</p>
+  <p align="left">Computer Engineering student and ML Engineer with expertise in React, Node.js, Python, and AI/ML, along with experience in building scalable systems and cloud deployment.</p>
 
-- 🌱 I'm currently learning many things, I believe that everyday is a learning opportunity.
+- 🌱 Currently learning and building.
 - 🎓 Computer Engineering student at University of Guelph.
 - 💡 Passionate about AI/ML and Full-Stack Development.
 
