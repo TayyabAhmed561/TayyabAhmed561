@@ -1,4 +1,4 @@
-## _computer engineering @ university of guelph_
+## computer engineering @ university of guelph
 
 I build systems across software, embedded platforms, and data. Interested in infrastructure, device-level systems, and applied machine learning.
 
