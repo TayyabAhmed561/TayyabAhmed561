@@ -1,4 +1,4 @@
-## computer engineering @ university of guelph
+## Tayyab Ahmed
 
 i build systems across software, embedded platforms, and data, with a focus on embedded and systems programming, cloud-backed data pipelines, and applied machine learning on real-world signals.
 
