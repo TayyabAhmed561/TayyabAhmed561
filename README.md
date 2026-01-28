@@ -2,11 +2,6 @@
 
 i build systems across software, embedded platforms, and data, with a focus on embedded and systems programming, cloud-backed data pipelines, and applied machine learning on real-world signals.
 
-**background**
-- computer engineering (co-op), university of guelph  
-- previous intern @ geotab  
-- robotics @ FIRST robotics  
-
 ![profile views](https://komarev.com/ghpvc/?username=TayyabAhmed561&label=profile%20views&color=7c3aed&style=flat)
 
 **connect**  
