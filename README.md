@@ -1,4 +1,4 @@
-## computer engineering @ university of guelph
+## _computer engineering @ university of guelph_
 
 I build systems across software, embedded platforms, and data. Interested in infrastructure, device-level systems, and applied machine learning.
 
@@ -9,15 +9,15 @@ I build systems across software, embedded platforms, and data. Interested in inf
 
 ### background
 - computer engineering (co-op), university of guelph  
-- previous intern @ geotab (rotational program)  
-- robotics experience @ FIRST robotics  
+- previous intern @ geotab 
+- robotics @ FIRST robotics  
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=TayyabAhmed561&label=profile%20views&color=7c3aed&style=for-the-badge" />
 </p>
 
 ### selected work
-- cnn-based modeling on microscopy and sensor data  
+- incubating cnns
 - embedded and systems projects focused on automation, reliability, and data flow  
 
 ### connect
