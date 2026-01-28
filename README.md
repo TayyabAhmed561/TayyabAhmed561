@@ -1,10 +1,6 @@
-<br />
-# wsp
-_computer engineering @ university of guelph_
+## computer engineering @ university of guelph
 
-I build systems across software, embedded platforms, and data. Interested in infrastructure, device-level systems, and applied ML.
-
----
+I build systems across software, embedded platforms, and data. Interested in infrastructure, device-level systems, and applied machine learning.
 
 ### focus
 - embedded and systems programming  
@@ -17,14 +13,12 @@ I build systems across software, embedded platforms, and data. Interested in inf
 - robotics experience @ FIRST robotics  
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=TayyabAhmed561&label=profile%20views&color=7c3aed&style=for-the-badge" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=TayyabAhmed561&label=profile%20views&color=7c3aed&style=for-the-badge" />
 </p>
 
 ### selected work
-- incubating cnns 
-- embedded and systems projects involving sensor data, automation, and reliability
-
----
+- cnn-based modeling on microscopy and sensor data  
+- embedded and systems projects focused on automation, reliability, and data flow  
 
 ### connect
 <div align="center">
