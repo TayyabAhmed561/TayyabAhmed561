@@ -1,13 +1,11 @@
-<!-- banner -->
-<div align="center">
-  <img src="media/whm-nasa-banner.jpg" alt="banner" style="border-radius: 10px;">
-</div>
-
 <br />
+# wsp
 _computer engineering @ university of guelph_
 
 I build systems across software, embedded platforms, and data. Interested in infrastructure, device-level systems, and applied ML.
+
 ---
+
 ### focus
 - embedded and systems programming  
 - applied machine learning on real-world signals  
@@ -24,8 +22,10 @@ I build systems across software, embedded platforms, and data. Interested in inf
 
 ### selected work
 - incubating cnns 
-- embedded and systems projects involving sensor data, automation, and reliability  
+- embedded and systems projects involving sensor data, automation, and reliability
+
 ---
+
 ### connect
 <div align="center">
   <a href="mailto:tahmed06@uoguelph.ca">
