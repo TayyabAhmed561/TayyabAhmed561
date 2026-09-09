@@ -1,6 +1,6 @@
 ## Tayyab Ahmed
 
-i build systems across software, embedded platforms, and data, with a focus on embedded and systems programming, cloud-backed data pipelines, and applied machine learning on real-world signals.
+building projects = gaming
 
 ![profile views](https://komarev.com/ghpvc/?username=TayyabAhmed561&label=profile%20views&color=7c3aed&style=flat)
 
