@@ -15,7 +15,7 @@ building projects = gaming
 > built it after missing one too many due dates. now **100+ students** use it.
 
 <a href="https://uniflow.study">
-  <img src="https://image.thum.io/get/width/1200/crop/700/https://uniflow.study" alt="uniflow preview" width="100%" />
+  <img src="https://image.thum.io/get/width/1200/crop/700/wait/6/maxAge/1/https://uniflow.study" alt="uniflow preview" width="100%" />
 </a>
 
 <p>
